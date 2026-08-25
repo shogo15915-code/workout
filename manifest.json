@@ -1,9 +1,0 @@
-{
-  "name": "WORKOUT",
-  "short_name": "WORKOUT",
-  "start_url": "./index.html",
-  "scope": "./",
-  "display": "standalone",
-  "background_color": "#121110",
-  "theme_color": "#121110"
-}
